@@ -2,6 +2,7 @@
 
 <!--
 **Rodolfo-Santos/Rodolfo-Santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Rodolfo GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rodolfo-Santos&show_icons=true)
 
 Here are some ideas to get you started:
 
