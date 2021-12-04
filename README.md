@@ -40,5 +40,9 @@
   <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=rodolfo-santos&custom_title=Rodolfo%27s%20activity%20graph&theme=monokai&hide_border=true"/>
   </div>
-              
+<br> 
+<!--START_SECTION:waka-->
+
+
+<!--END_SECTION:waka-->     
               
