@@ -12,7 +12,9 @@
   <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
 </div>
-<br>
+  
+<br/>
+  
 <div align="center">
   <img align="center" alt="VueJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="NuxtJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg">
@@ -20,9 +22,9 @@
   <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
   <img align="center" alt="Blade" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
 </div>
-
-##
- 
+  
+<br/>
+  
 <div align="center"> 
   <a href="https://www.instagram.com/rodolfo.d.santos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/7h4QC4MA" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -30,17 +32,20 @@
   <a href="https://www.linkedin.com/in/rodolfosantos29/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
   
- <br/>
+##
  
- <div align="center">
-     <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=rodolfo-santos&theme=monokai&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
-  </div>
-  <br>
+<div align="center">
+   <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=rodolfo-santos&theme=monokai&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+</div>
   
-  <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=rodolfo-santos&custom_title=Rodolfo%27s%20activity%20graph&theme=monokai&hide_border=true"/>
-  </div>
-<br/> 
+<br/>
+  
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=rodolfo-santos&custom_title=Rodolfo%27s%20activity%20graph&theme=monokai&hide_border=true"/>
+</div>
+  
+##
+<br/>
   
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-19%20mins-blue)
