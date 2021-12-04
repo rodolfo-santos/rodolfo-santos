@@ -27,3 +27,16 @@
   <a href="mailto:rodolfodossantos29@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/rodolfosantos29/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
+  
+ <br>
+ 
+ <div align="center">
+     <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=rodolfo-santos&theme=monokai&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+  </div>
+  <br>
+  
+  <div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=rodolfo-santos&custom_title=Rodolfo%27s%20activity%20graph&theme=monokai&hide_border=true"/>
+  </div>
+              
+              
