@@ -3,7 +3,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodolfo-Santos&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodolfo-Santos&layout=compact&langs_count=7&theme=monokai"/>
 </div>
-<br>
+<br/>
 
 <div align="center">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -30,7 +30,7 @@
   <a href="https://www.linkedin.com/in/rodolfosantos29/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
   
- <br>
+ <br/>
  
  <div align="center">
      <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=rodolfo-santos&theme=monokai&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
@@ -40,7 +40,8 @@
   <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=rodolfo-santos&custom_title=Rodolfo%27s%20activity%20graph&theme=monokai&hide_border=true"/>
   </div>
-<br> 
+<br/> 
+  
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-19%20mins-blue)
 
