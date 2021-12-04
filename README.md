@@ -42,7 +42,81 @@
   </div>
 <br> 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-19%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 453 Contributions in the Year 2021
+ > 
+> 📦 78.8 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 25 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    68 commits     ███████░░░░░░░░░░░░░░░░░░   28.22% 
+🌆 Daytime    103 commits    ██████████░░░░░░░░░░░░░░░   42.74% 
+🌃 Evening    70 commits     ███████░░░░░░░░░░░░░░░░░░   29.05% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       46 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.09% 
+Tuesday      65 commits     ██████░░░░░░░░░░░░░░░░░░░   26.97% 
+Wednesday    34 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.11% 
+Thursday     30 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.45% 
+Friday       31 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.86% 
+Saturday     19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.88% 
+Sunday       16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.64%
+
+```
 
 
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Vue** 
+
+```text
+Vue                      8 repos             ██████░░░░░░░░░░░░░░░░░░░   25.81% 
+Java                     6 repos             ████░░░░░░░░░░░░░░░░░░░░░   19.35% 
+CSS                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.9% 
+JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.68% 
+PHP                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.68%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/rodolfo-santos/rodolfo-santos/main/charts/bar_graph.png) 
+
+
+ Last Updated on 04/12/2021
 <!--END_SECTION:waka-->     
               
