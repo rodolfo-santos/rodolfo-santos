@@ -48,8 +48,6 @@
 <br/>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-27%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
 
 **🐱 My GitHub Data** 
@@ -93,16 +91,21 @@ Sunday       16 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     22 mins             ████████████████████░░░░░   82.92% 
+Markdown                 4 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.61% 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.75% 
+Vue.js                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.72%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  27 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Rodolfo-Santos           26 mins             ████████████████████████░   97.28% 
+k12-adg-client           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.0% 
+k12-marketplace-render   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.72%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    27 mins             █████████████████████████   100.0%
 
 ```
 
@@ -123,6 +126,6 @@ PHP                      3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/rodolfo-santos/rodolfo-santos/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/12/2021
+ Last Updated on 05/12/2021
 <!--END_SECTION:waka-->     
               
