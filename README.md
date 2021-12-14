@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/Rodolfo-Santos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodolfo-Santos&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodolfo-Santos&layout=compact&langs_count=7&theme=nord"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodolfo-Santos&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodolfo-Santos&layout=compact&langs_count=7&theme=monokai"/>
 </div>
 <br/>
 
@@ -35,13 +35,13 @@
 ##
  
 <div align="center">
-   <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=rodolfo-santos&theme=nord&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+   <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=rodolfo-santos&theme=monokai&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 </div>
   
 <br/>
   
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=rodolfo-santos&custom_title=Rodolfo%27s%20activity%20graph&theme=nord&hide_border=true"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=rodolfo-santos&custom_title=Rodolfo%27s%20activity%20graph&theme=monokai&hide_border=true"/>
 </div>
   
 ##
@@ -122,11 +122,6 @@ JavaScript               3 repos             ██░░░░░░░░░�
 PHP                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.68%
 
 ```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/rodolfo-santos/rodolfo-santos/main/charts/bar_graph.png) 
 
 
  Last Updated on 13/12/2021
