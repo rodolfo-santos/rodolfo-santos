@@ -52,7 +52,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 972 Contributions in the Year 2022
+> 🏆 973 Contributions in the Year 2022
  > 
 > 📦 57.3 kB Used in GitHub's Storage 
  > 
@@ -91,21 +91,16 @@ Sunday       21 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Vue.js                   58 mins             ████████████░░░░░░░░░░░░░   51.31% 
-TypeScript               37 mins             ████████░░░░░░░░░░░░░░░░░   32.92% 
-JSON                     17 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.53% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 54 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-k12-adg-client           1 hr 16 mins        ████████████████░░░░░░░░░   66.62% 
-k12-marketplace-render   20 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.85% 
-Unknown Project          17 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.53%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 54 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -126,6 +121,6 @@ CSS                      3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/rodolfo-santos/rodolfo-santos/main/charts/bar_graph.png) 
 
 
- Last Updated on 08/04/2022 18:50:09 UTC
+ Last Updated on 11/04/2022 18:52:08 UTC
 <!--END_SECTION:waka-->     
               
