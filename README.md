@@ -93,19 +93,16 @@ Sunday       46 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Vue.js                   1 hr 42 mins        █████████████░░░░░░░░░░░░   54.82% 
-TypeScript               1 hr 24 mins        ███████████░░░░░░░░░░░░░░   45.03% 
-SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 7 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-k12-adg-client           3 hrs 7 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    3 hrs 7 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -126,6 +123,6 @@ C                        2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/rodolfo-santos/rodolfo-santos/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/06/2022 18:45:49 UTC
+ Last Updated on 13/06/2022 18:51:42 UTC
 <!--END_SECTION:waka-->     
               
