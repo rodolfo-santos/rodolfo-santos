@@ -50,7 +50,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
 **🐱 My GitHub Data** 
 
@@ -128,6 +128,6 @@ C                        2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/rodolfo-santos/rodolfo-santos/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/06/2022 18:50:53 UTC
+ Last Updated on 17/06/2022 18:50:56 UTC
 <!--END_SECTION:waka-->     
               
