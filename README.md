@@ -5,6 +5,7 @@
 </div>
 <br/>
 
+
 <div align="center">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -22,7 +23,7 @@
   <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
   <img align="center" alt="Blade" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
 </div>
-  
+ 
 <br/>
   
 <div align="center"> 
@@ -37,6 +38,11 @@
 <div align="center">
    <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=rodolfo-santos&theme=monokai&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 </div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rodolfo-santos&margin-w=10&margin-h=10&theme=monokai&column=4&no-bg=true&rank=SECRET,SSS,SS,S,A,B">
+  
+</div>
   
 <br/>
   
@@ -45,6 +51,11 @@
 </div>
   
 ##
+<br/>
+
+
+
+
 <br/>
   
 <!--START_SECTION:waka-->
