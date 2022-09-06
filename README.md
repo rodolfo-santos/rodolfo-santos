@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/Rodolfo-Santos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodolfo-Santos&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodolfo-Santos&layout=compact&langs_count=7&theme=monokai"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodolfo-Santos&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodolfo-Santos&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 <br/>
 
@@ -36,18 +36,18 @@
 ##
  
 <div align="center">
-   <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=rodolfo-santos&theme=monokai&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+   <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=rodolfo-santos&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rodolfo-santos&margin-w=10&margin-h=10&theme=monokai&column=4&no-bg=true&rank=SECRET,SSS,SS,S,A,B">
+  <img src="https://github-profile-trophy.vercel.app/?username=rodolfo-santos&margin-w=10&margin-h=10&theme=gotham&column=4&no-bg=true&rank=SECRET,SSS,SS,S,A,B">
   
 </div>
   
 <br/>
   
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=rodolfo-santos&custom_title=Rodolfo%27s%20activity%20graph&theme=monokai&hide_border=true"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=rodolfo-santos&custom_title=Rodolfo%27s%20activity%20graph&theme=gotham&hide_border=true"/>
 </div>
   
 ##
