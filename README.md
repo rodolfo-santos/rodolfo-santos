@@ -44,12 +44,6 @@
 <div align="center">
    <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=rodolfo-santos&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 </div>
-  
-<br/>
-  
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=rodolfo-santos&custom_title=Rodolfo%27s%20activity%20graph&theme=gotham&hide_border=true"/>
-</div>
 
 <br/>
 
