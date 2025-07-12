@@ -1,54 +1,131 @@
+# 👋 Rodolfo dos Santos
+
+**Engenheiro de Software Full Stack Senior | PHP | Node | Vue 3 | Nuxt 3**  
+📍 28 anos, brasileiro, casado  
+📞 (12) 99730-6744  
+📧 rodolfodossantos29@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/rodolfosantos29) • [GitHub](https://github.com/rodolfo-santos)
+
+---
+
 <div align="center">
   <a href="https://github.com/Rodolfo-Santos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodolfo-Santos&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodolfo-Santos&layout=compact&langs_count=7&theme=gotham"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodolfo-Santos&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodolfo-Santos&layout=compact&langs_count=7&theme=gotham"/>
+  </a>
 </div>
 
-<br/>
-<br/>
+---
 
+## 🧠 Resumo Profissional
 
-<div align="center">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-</div>
- 
+Mais de 10 anos de experiência em TI, atuando em empresas de diferentes portes. Sou especializado em **desenvolvimento web** com foco em plataformas de **e-commerce**, SEO, UX, CMS, integrações com meios de pagamento e NFe, performance web e gestão de dados.
 
-<br/>
+Forte ênfase em **arquitetura de software**, aplicando **DDD, TDD, Clean Architecture, Ports & Adapters**, além de experiência em **monorepos, monolitos e microsserviços**. Expert em **e-commerces multi-tenant**, PLPs, PDPs e processos de checkout.
 
+---
 
-<div align="center">
-  <img align="center" alt="VueJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="NuxtJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg">
-  <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
-  <img align="center" alt="Blade" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
-</div>
- 
-<br/>
+## 💼 Experiência Profissional
 
-  
-<div align="center"> 
-  <a href="https://www.instagram.com/rodolfo.d.santos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/7h4QC4MA" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="mailto:rodolfodossantos29@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/rodolfosantos29/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>
+### 🚀 Quero Educação — *Software Engineering Manager* / Seniro Full-stack Engineer
+📍 Set 2021 – Atual · São José dos Campos/SP  
+Liderança técnica de projetos em plataformas como **melhorescola.com** e **querobolsa.com**.
 
- <br/>
- <br/>
- 
-<div align="center">
-   <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=rodolfo-santos&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
-</div>
+**Principais entregas:**
+- **Marketplace Multi-Tenant** (Nuxt 3, Laravel, OpenSearch)
+- **Checkout com Pagar.me + integração com TOTVS Protheus** (Vue 3, Laravel)  
+- **Cobrança Recorrente**: ciclo completo de pagamentos (Vue 3, Laravel)  
+- **Dashboard Gerencial para Escolas** (Nuxt 2, Laravel)
 
-<br/>
+---
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rodolfo-santos&margin-w=10&margin-h=10&theme=gotham&column=4&no-bg=true&rank=SECRET,SSS,SS,S,A,B">
-</div>
+### 📊 SoluCX — *Gerente de Engenharia / Senior Front-end Engineer*  
+📍 Nov 2020 – Set 2021 · São Paulo/SP  
+- Liderança de equipe com VueJS  
+- Implementação de CI/CD e testes automatizados  
+- Redução de bugs em produção e aumento da produtividade
 
+---
+
+### ✈️ Embraer — *Analista de Sistemas*  
+📍 Fev 2020 – Nov 2020 · São José dos Campos/SP  
+- Soluções financeiras com **Java**  
+- Projetos com times multinacionais
+
+---
+
+### 📘 Anova Sistemas — *Desenvolvedor Front-end*  
+📍 Nov 2019 – Jan 2020 · São José dos Campos/SP  
+- Sistema de gestão para autoescolas (VueJS + Bootstrap)
+
+---
+
+### 💼 Moik Marketing Digital — *Fundador / Desenvolvedor Full-Stack*  
+📍 Mai 2019 – Jan 2020  
+- Entregas principais:  
+  - [tagautomacao.com.br](https://tagautomacao.com.br/)  
+  - [hpaautomacao.com.br](https://hpaautomacao.com.br/)
+
+---
+
+### 🧑‍🏫 Microcamp — *Instrutor de Web Design*  
+📍 Mar 2015 – Fev 2020  
+- Aulas de HTML, CSS, JS, PHP, MySQL  
+- Disciplinas técnicas e administrativas
+
+---
+
+## 🎓 Escolaridade
+
+- **MBA em Arquitetura de Software, Ciência de Dados e CyberSecurity** – PUC Campinas *(2024–2025)*  
+- **Análise e Desenvolvimento de Sistemas** – FATEC *(2017–2022)*  
+- **Técnico em Redes de Computadores** – SENAI *(2015–2017)*
+
+---
+
+## 🧰 Hard Skills
+
+**Linguagens**: JavaScript, TypeScript, PHP, Java, Python, Ruby on Rails  
+**Frameworks**: Vue, Nuxt, React, Next.js, Laravel, Spring Boot  
+**Testes**: Vitest, Jest, Mocha/Chai, Selenium, Cypress  
+**Banco de Dados**: MySQL, PostgreSQL, Oracle, Redis, Firebase, DynamoDB  
+**Buscas**: OpenSearch, Elasticsearch  
+**Infra**: AWS, GCP, Docker, Kubernetes, Terraform, Cloudflare, NGINX  
+**Monitoramento**: Grafana, Prometheus  
+**Outros**: GraphQL, SEO, GTM, Google Analytics
+
+---
+
+## 🤝 Soft Skills
+
+- Liderança técnica e de equipes  
+- Comunicação clara com stakeholders  
+- Mentoria e formação de talentos  
+- Visão estratégica de negócio
+
+---
+
+## 🌍 Idiomas
+
+- **Inglês Intermediário**: leitura, escuta e conversação técnica
+
+---
+
+## 📜 Certificações
+
+- Microserviços com Hexagonal Architecture + DDD/TDD – *2024* – Gregory Pacheco  
+- SEO Completo – *2024* – Rodrigo Bueno  
+- Gestão Ágil, Liderança e Scrum – *2022* – Gustavo Faria  
+- NPM da Instalação à Publicação – *2022* – Matheus Battisti  
+- JavaScript Completo ES6 + VueJS2 – *2018* – Origamid
+
+---
+
+## 📚 Cursando
+
+- **Inglês** – Open English  
+- **Prometheus + Grafana** – Rodrigo Roma  
+- **DevOps Ninja: Docker, K8s, Rancher** – Jonathan Baraldi
+
+---
 
