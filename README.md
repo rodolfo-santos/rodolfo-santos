@@ -49,10 +49,6 @@ Lidero o time de engenharia de Pagamentos na <strong>Quero Educação</strong>.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rodolfo-santos&show_icons=true&hide_title=true&hide_border=true&theme=dark">
-  <img src="https://github-readme-stats.vercel.app/api?username=rodolfo-santos&show_icons=true&hide_title=true&hide_border=true&theme=default" height="165" alt="GitHub stats">
-</picture>
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=rodolfo-santos&hide_border=true&theme=dark">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rodolfo-santos&hide_border=true&theme=default" height="165" alt="GitHub streak">
 </picture>
