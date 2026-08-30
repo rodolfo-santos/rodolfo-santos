@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="320" viewBox="0 0 640 320" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif">
+  <rect x="0" y="0" width="640" height="320" rx="12" ry="12" fill="#fcfcfb"/>
+  <text x="24" y="24" font-size="12" fill="#898781">PRs mesclados por stack · todos os repositórios (incl. os da empresa)</text>
+
+  <path d="M150,53 H556 A4,4 0 0 1 560,57 V65 A4,4 0 0 1 556,69 H150 Z" fill="#2a78d6"/>
+  <text x="24" y="65" font-size="13" font-weight="600" fill="#0b0b0b">Vue</text>
+  <text x="570" y="65" font-size="13" fill="#52514e">809</text>
+
+  <path d="M150,87 H431 A4,4 0 0 1 435,91 V99 A4,4 0 0 1 431,103 H150 Z" fill="#eb6834"/>
+  <text x="24" y="99" font-size="13" font-weight="600" fill="#0b0b0b">PHP</text>
+  <text x="445" y="99" font-size="13" fill="#52514e">562</text>
+
+  <path d="M150,121 H363 A4,4 0 0 1 367,125 V133 A4,4 0 0 1 363,137 H150 Z" fill="#1baf7a"/>
+  <text x="24" y="133" font-size="13" font-weight="600" fill="#0b0b0b">TypeScript</text>
+  <text x="377" y="133" font-size="13" fill="#52514e">428</text>
+
+  <path d="M150,155 H244 A4,4 0 0 1 248,159 V167 A4,4 0 0 1 244,171 H150 Z" fill="#eda100"/>
+  <text x="24" y="167" font-size="13" font-weight="600" fill="#0b0b0b">Ruby</text>
+  <text x="258" y="167" font-size="13" fill="#52514e">193</text>
+
+  <path d="M150,189 H241 A4,4 0 0 1 245,193 V201 A4,4 0 0 1 241,205 H150 Z" fill="#e87ba4"/>
+  <text x="24" y="201" font-size="13" font-weight="600" fill="#0b0b0b">Go</text>
+  <text x="255" y="201" font-size="13" fill="#52514e">187</text>
+
+  <path d="M150,223 H154 A4,4 0 0 1 158,227 V235 A4,4 0 0 1 154,239 H150 Z" fill="#008300"/>
+  <text x="24" y="235" font-size="13" font-weight="600" fill="#0b0b0b">JavaScript</text>
+  <text x="168" y="235" font-size="13" fill="#52514e">12</text>
+
+  <path d="M150,257 H154 A4,4 0 0 1 158,261 V269 A4,4 0 0 1 154,273 H150 Z" fill="#4a3aa7"/>
+  <text x="24" y="269" font-size="13" font-weight="600" fill="#0b0b0b">Shell</text>
+  <text x="168" y="269" font-size="13" fill="#52514e">8</text>
+
+  <text x="24" y="300" font-size="11" font-style="italic" fill="#898781">Go: projeto iniciado em jul/2026 · os demais têm anos de histórico</text>
+</svg>
