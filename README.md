@@ -12,18 +12,6 @@
 
 <br>
 
-<div align="center">
-
-| Stack | PRs | Observação |
-|---|---|---|
-| Vue | 809 | desde 2021 |
-| PHP | 562 | Laravel |
-| TypeScript | 428 | |
-| Ruby | 193 | Rails |
-| Go | 187 | projeto iniciado em jul/2026 |
-| JavaScript | 12 | |
-| Shell | 8 | |
-
 </details>
 
 </div>
