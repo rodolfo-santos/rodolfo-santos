@@ -14,14 +14,6 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/languages-chart-dark.svg">
-  <img src="assets/languages-chart-light.svg" width="560" alt="PRs mesclados por stack: Vue 809, PHP 562, TypeScript 428, Ruby 193, Go 187, JavaScript 12, Shell 8 (todos os repositorios, incluindo os da empresa)">
-</picture>
-
-<details>
-<summary>Ver como tabela</summary>
-
 | Stack | PRs | Observação |
 |---|---|---|
 | Vue | 809 | desde 2021 |
