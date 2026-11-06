@@ -8,6 +8,12 @@
 
 ![Skills](https://skillicons.dev/icons?i=go,ts,vue,php,ruby)
 
+<br>
+
+[![Conheça meu portfólio: engenharia que conecta sistemas e pessoas](https://raw.githubusercontent.com/rodolfo-santos/rodolfo-santos.github.io/main/public/images/profile-banner.svg)](https://rodolfo-santos.github.io/)
+
+**[Abrir meu portfólio](https://rodolfo-santos.github.io/)**
+
 </div>
 
 <br>
@@ -20,7 +26,7 @@
 
 <div align="center">
 
-Lidero o time de engenharia de Pagamentos na <strong>Quero Educação</strong>.
+Lidero o time de engenharia de Pagamentos na <strong>Qeevo Group</strong>.
 
 </div>
 
